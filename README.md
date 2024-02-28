@@ -61,4 +61,4 @@ For any inquiries or further discussion, feel free to contact us through GitHub 
 This project is at the cutting edge of applying transformer models to the field of eyetracking, pushing forward the capabilities in analyzing and interpreting complex eyetracking data. Join us in advancing this exciting area of research and application!
 
 
-![VTNET Image](visualisation/VTNet.png)
+![VTNET Image](visualizations/VTNet.png)
