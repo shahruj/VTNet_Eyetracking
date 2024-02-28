@@ -5,16 +5,16 @@
 
 Unofficial implentation of: https://arxiv.org/pdf/2309.12574.pdf (Classification of Alzheimer's Disease with Deep Learning on Eye-tracking Data)
 
-VTNeyetrack is an innovative implementation of the Vision Transformer (ViT) architecture tailored specifically for eyetracking classification tasks. Our project leverages the powerful capabilities of transformer models, traditionally used in natural language processing (NLP), and adapts them for the nuanced requirements of eyetracking data analysis. This approach allows for exceptional accuracy in classifying various eyetracking metrics, including gaze direction, fixation duration, and blink rate, among others.
+VTNeyetrack represents a cutting-edge adaptation of the Vision Transformer (ViT) model, specifically designed for eyetracking classification challenges. This deep learning classifier, known as VTNet, is trained from the ground up on raw eyetracking (ET) data. This implementation of the VTNet uniquely combines a GRU (Gated Recurrent Unit) and a CNN (Convolutional Neural Network) in a parallel architecture to harness both the visual (V) and temporal (T) dimensions of ET data. Its prior application includes the successful identification of user confusion during interaction with visual interfaces.
 
 ## Features
 
-- **Transformer-Based Architecture**: Utilizes a customized Vision Transformer model to process eyetracking data, capturing complex spatial relationships and temporal dynamics.
-- **High Accuracy Classification**: Designed for high performance in classifying eyetracking metrics, improving upon traditional CNN-based approaches.
-- **Dataset Agnostic**: Flexible to work with various eyetracking datasets, both public and proprietary, without requiring extensive preprocessing.
-- **Real-Time Analysis Capability**: Optimized for efficiency, allowing for real-time classification of eyetracking data in practical applications.
-- **Extensive Preprocessing Toolkit**: Includes tools for cleaning and preparing eyetracking data, making the model robust to noise and artifacts.
-- **Visualization Tools**: Features integrated visualization tools to interpret the model's attention mechanisms and classification decisions.
+- **Transformative Approach with Vision Transformer:** Employs an innovative Vision Transformer model tailored for eyetracking data, adept at discerning intricate spatial and temporal patterns.
+- **Enhanced Classification Precision:** Achieves superior classification accuracy in analyzing eyetracking metrics, surpassing conventional CNN methodologies.
+- **Universal Dataset Compatibility:** Built to accommodate a wide range of eyetracking datasets, eliminating the need for complex preprocessing, whether they are publicly available or proprietary.
+- **Capability for Instantaneous Analysis:** Engineered for high-speed performance, enabling the immediate classification of eyetracking data for real-world applications.
+- **Comprehensive Data Preparation Suite:** Comes equipped with an extensive set of preprocessing tools designed to refine eyetracking data, ensuring the model's resilience against disturbances and inaccuracies.
+- **Advanced Visualization Capabilities:** Incorporates built-in visualization features that elucidate the model's focus areas and reasoning behind its classification outcomes.
 
 ## Installation
 
