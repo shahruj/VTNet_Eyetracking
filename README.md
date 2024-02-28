@@ -3,6 +3,8 @@
 
 ## Overview
 
+Unofficial implentation of: https://arxiv.org/pdf/2309.12574.pdf (Classification of Alzheimer's Disease with Deep Learning on Eye-tracking Data)
+
 VTNeyetrack is an innovative implementation of the Vision Transformer (ViT) architecture tailored specifically for eyetracking classification tasks. Our project leverages the powerful capabilities of transformer models, traditionally used in natural language processing (NLP), and adapts them for the nuanced requirements of eyetracking data analysis. This approach allows for exceptional accuracy in classifying various eyetracking metrics, including gaze direction, fixation duration, and blink rate, among others.
 
 ## Features
