@@ -18,11 +18,6 @@ VTNeyetrack is an innovative implementation of the Vision Transformer (ViT) arch
 
 Clone this repository to your local machine:
 
-```bash
-git clone https://github.com/yourusername/VTNeyetrack.git
-cd VTNeyetrack
-```
-
 Install the required dependencies:
 
 ```bash
